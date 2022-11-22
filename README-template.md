@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mk513147/advice-generator-app-main.git)
+- Live Site URL: [Add live site URL here](https://advo-gen.netlify.app/)
 
 
 ### Built with
@@ -66,5 +66,5 @@ I want to learn more abut API's and how to use it on a website.
 ## Author
 
 - Website - [Mohit Kumar](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mk513147](https://www.frontendmentor.io/profile/mk513147)
 
