@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mk513147/advice-generator-app-main.git)
-- Live Site URL: [Add live site URL here](https://advo-gen.netlify.app/)
+- Solution URL: [https://github.com/mk513147/advice-generator-app-main.git]
+- Live Site URL: [https://advo-gen.netlify.app/]
 
 
 ### Built with
@@ -60,8 +60,8 @@ I want to learn more abut API's and how to use it on a website.
 
 ### Useful resources
 
-- [Example resource 1](https://loading.io/) - This website helped me to set loading screen reason. I really liked this website and will use it going forward.
-- [Example resource 2](https://fonts.google.com/) - This is an amazing website which helped me in applaying amazing fonts to my website.
+- [https://loading.io/] - This website helped me to set loading screen reason. I really liked this website and will use it going forward.
+- [https://fonts.google.com/] - This is an amazing website which helped me in applaying amazing fonts to my website.
 
 
 ## Author
